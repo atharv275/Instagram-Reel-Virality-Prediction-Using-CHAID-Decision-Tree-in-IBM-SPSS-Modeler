@@ -104,23 +104,6 @@ The machine learning workflow includes:
 <img width="938" height="488" alt="image" src="https://github.com/user-attachments/assets/8f1a3291-7e62-417c-8699-7eb6eb72f7c3" />
 
 
----
-
-## Prediction Output
-
-![Prediction](asset/prediction_output.png)
-
----
-
-## Analysis Output
-
-![Analysis](asset/analysis.png)
-
----
-
-## CHAID Tree
-
-![CHAID Tree](asset/chaid_tree.png)
 
 ---
 
@@ -139,18 +122,4 @@ This project successfully demonstrated an end-to-end machine learning workflow u
 
 ---
 
-## Project Structure
 
-```text
-instagram-reel-virality-prediction-chaid/
-│
-├── asset/
-│   ├── workflow.png
-│   ├── analysis.png
-│   ├── prediction_output.png
-│   ├── chaid_tree.png
-│
-├── instagram_reel_prediction_dataset_650.csv
-├── instagram_reel_prediction.str
-├── README.md
-├── project_report.pdf
