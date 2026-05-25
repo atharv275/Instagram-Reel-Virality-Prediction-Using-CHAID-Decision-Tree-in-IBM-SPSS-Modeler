@@ -101,7 +101,8 @@ The machine learning workflow includes:
 
 ## IBM SPSS Modeler Workflow Preview
 
-<img width="938" height="488" alt="image" src="https://github.com/user-attachments/assets/8f1a3291-7e62-417c-8699-7eb6eb72f7c3" />
+<img width="1793" height="919" alt="Screenshot 2026-05-25 232159" src="https://github.com/user-attachments/assets/0f830f65-d4e6-4cf2-b595-0ed70e616afe" />
+
 
 
 
